@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1666654017 source:c:\users\ahmed\onedrive\desktop\test\test.cpp\src\bigdecimalint.cpp
+	"bigdecimalint.h"
+	<iostream>
+	<string>
+
+1666654062 c:\users\ahmed\onedrive\desktop\test\test.cpp\include\bigdecimalint.h
+	<iostream>
+	<string>
+
+1666654017 source:c:\users\ahmed\onedrive\desktop\test\test.cpp\main.cpp
+	<iostream>
+	"bigdecimalint.h"
+	<string>
+
